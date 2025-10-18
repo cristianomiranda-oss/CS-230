@@ -1,2 +1,2 @@
 # CS-230
-Course work for the CS-230, Operating Platforms.
+Coursework for the CS-230: Operating Platforms course at SNHU.
